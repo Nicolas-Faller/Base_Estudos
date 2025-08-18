@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquivo De Push.md",
+                "file": "Teste 2 pos config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arquivo De Push"
+              "title": "Teste 2 pos config"
             }
           }
         ]
@@ -195,9 +195,10 @@
   },
   "active": "8b95a92de82a01ea",
   "lastOpenFiles": [
-    "README.md",
-    "Arquivo De Push.md",
     "Teste.md",
+    "Teste 2 pos config.md",
+    "Arquivo De Push.md",
+    "README.md",
     "Teste",
     "Welcome.md",
     "Pasta de organização"
