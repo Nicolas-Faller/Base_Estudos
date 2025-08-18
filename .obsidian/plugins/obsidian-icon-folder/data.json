@@ -34,8 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Pasta de organização/Comandos GIT": "LiAnchor",
-  "Pasta de organização/Botões.md": "LiAnchor",
   "Áreas de Conhecimento": "LiSchool",
   "Áreas de Conhecimento/Desenvolvimento": "FabDev",
   "Áreas de Conhecimento/Desenvolvimento/Cscharp": "#️⃣",
@@ -45,7 +43,6 @@
   "Áreas de Conhecimento/Tecnologias/APIs REST": "FabConnectdevelop",
   "Áreas de Conhecimento/Tecnologias/Banco de Dados": "LiDatabase",
   "Áreas de Conhecimento/Tecnologias/Cloud": "LiCloud",
-  "Pasta de organização": "LiCog",
   "Projetos": "LiFolders",
   "Carreira": "FabLinkedin",
   "Carreira/Entrevistas": "LiMessageSquareText",
@@ -54,5 +51,8 @@
   "Recursos": "LiBoxes",
   "Recursos/PDFs e Ebooks": "📚",
   "Recursos/Cursos": "LiVideotape",
-  "Recursos/Documentações": "LiDock"
+  "Recursos/Documentações": "LiDock",
+  "Pasta de Configuração": "LiCog",
+  "Pasta de Configuração/Comandos GIT": "LiAnchor",
+  "Pasta de Configuração/Botões.md": "LiAnchor"
 }

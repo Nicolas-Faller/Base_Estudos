@@ -107,7 +107,7 @@
       {
         "id": "7bef1e9af75323d3",
         "type": "tabs",
-        "dimension": 54.44444444444444,
+        "dimension": 52.77777777777778,
         "children": [
           {
             "id": "dfbeaf94ac7c2ede",
@@ -199,7 +199,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasta de organização/Botões.md",
+                "file": "Pasta de Configuração/Botões.md",
                 "mode": "source",
                 "source": false
               },
@@ -214,7 +214,7 @@
       {
         "id": "6d90d4cfafd18c9b",
         "type": "tabs",
-        "dimension": 45.55555555555556,
+        "dimension": 47.22222222222222,
         "children": [
           {
             "id": "ca682adc285cfb78",
@@ -250,8 +250,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d796e61265440991",
+  "active": "652555a471a4d88c",
   "lastOpenFiles": [
+    "Pasta de Configuração/Botões.md",
+    "README.md",
     "Recursos/Documentações",
     "Recursos/Cursos",
     "Recursos/Untitled/Untitled",
@@ -263,12 +265,9 @@
     "Carreira",
     "Áreas de Conhecimento/Desenvolvimento/JavaScript/Test2.md",
     "Áreas de Conhecimento/Desenvolvimento/Cscharp/Teste.md",
-    "Pasta de organização/Botões.md",
     "Projetos/🖍️ Planejados",
-    "Projetos/🗄️ Concluídos",
     "Áreas de Conhecimento/Desenvolvimento/Untitled.md",
-    "README.md",
-    "Pasta de organização/Comandos GIT/Comandos Git.md",
+    "Pasta de Configuração/Comandos GIT/Comandos Git.md",
     "Untitled.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
