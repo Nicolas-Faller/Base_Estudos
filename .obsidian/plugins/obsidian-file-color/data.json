@@ -1,0 +1,22 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "kpQKURUM1ivP3UlMtaaVs",
+      "name": "Red",
+      "value": "#ff0000"
+    },
+    {
+      "id": "rPWixDTcu4hIdLlUrZeWD",
+      "name": "Blue",
+      "value": "#060f8e"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Pasta de organização/Comandos GIT/Comandos Git.md",
+      "color": "kpQKURUM1ivP3UlMtaaVs"
+    }
+  ]
+}

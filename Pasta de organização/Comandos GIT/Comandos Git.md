@@ -18,3 +18,4 @@ pull origin main --allow-unrelated-histories
 pull origin main
 push --set-upstream origin main 
 git clone https://github.com/Nicolas-Faller/Base_Estudos.git
+
