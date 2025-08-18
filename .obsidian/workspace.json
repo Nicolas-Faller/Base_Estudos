@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasta de organização/Comandos GIT/Comandos Git.md",
+                "file": "Code Styler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos Git"
+              "title": "Code Styler"
             }
           }
         ]
@@ -196,11 +196,11 @@
   "active": "ace227da2f878096",
   "lastOpenFiles": [
     "Pasta de organização/Comandos GIT/Comandos Git.md",
+    "Code Styler.md",
     "Pasta de organização/Comandos GIT",
     "Arquivo De Push.md",
     "pull2.md",
     "Teste.md",
-    "Untitled.md",
     "Teste 2 pos config.md",
     "README.md",
     "Teste",
