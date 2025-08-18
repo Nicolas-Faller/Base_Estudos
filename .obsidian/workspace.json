@@ -172,12 +172,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "652555a471a4d88c",
+  "active": "8b95a92de82a01ea",
   "lastOpenFiles": [
     "Teste 2 pos config.md",
     "pull2.md",
