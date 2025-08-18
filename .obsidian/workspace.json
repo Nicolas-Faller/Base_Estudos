@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Pasta de organização/Botões.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Botões"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Pasta de organização/Botões.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Botões"
             }
           },
           {
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Pasta de organização/Botões.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Botões"
             }
           },
           {
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Pasta de organização/Botões.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Botões"
             }
           },
           {
@@ -252,10 +252,22 @@
   },
   "active": "d796e61265440991",
   "lastOpenFiles": [
+    "Projetos/🖍️ Planejados",
     "Pasta de organização/Botões.md",
+    "Projetos/🗄️ Concluídos",
+    "Projetos/📝 Em Andamento",
+    "Projetos",
+    "Áreas de Conhecimento/Tecnologias/Cloud",
+    "Áreas de Conhecimento/Tecnologias/Banco de Dados",
+    "Áreas de Conhecimento/Tecnologias/APIs REST",
+    "Áreas de Conhecimento/Tecnologias",
+    "Áreas de Conhecimento/Desenvolvimento/Python",
+    "Áreas de Conhecimento/Desenvolvimento/JavaScript",
+    "Áreas de Conhecimento/Desenvolvimento/Untitled.md",
+    "Áreas de Conhecimento/Desenvolvimento/Cscharp",
     "README.md",
-    "Untitled.md",
     "Pasta de organização/Comandos GIT/Comandos Git.md",
+    "Untitled.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Pasted image 20250818152544.png",
@@ -265,19 +277,12 @@
     "Mind Map.md",
     "Coletas.md",
     "PDF++.md",
-    "Untitled.pdf",
-    "Teste.pdf",
     "Teste.md",
-    "relatorio_backup_BUCHABQUI - Copia.pdf",
-    "relatorio_backup_BUCHABQUI.pdf",
     "Pasted image 20250818131131.png",
     "Code Styler.md",
-    "Pasta de organização/Comandos GIT",
     "Arquivo De Push.md",
     "pull2.md",
     "Teste 2 pos config.md",
-    "Teste",
-    "Welcome.md",
-    "Pasta de organização"
+    "Welcome.md"
   ]
 }
