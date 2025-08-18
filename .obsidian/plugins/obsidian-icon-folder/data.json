@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiFolders",
-      "#️⃣",
-      "FabPython",
-      "FabJs",
-      "LiSchool"
+      "LiDock",
+      "LiVideotape",
+      "📚",
+      "LiBoxes",
+      "📰"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,13 @@
   "Áreas de Conhecimento/Tecnologias/Banco de Dados": "LiDatabase",
   "Áreas de Conhecimento/Tecnologias/Cloud": "LiCloud",
   "Pasta de organização": "LiCog",
-  "Projetos": "LiFolders"
+  "Projetos": "LiFolders",
+  "Carreira": "FabLinkedin",
+  "Carreira/Entrevistas": "LiMessageSquareText",
+  "Carreira/Certificações": "LiNewspaper",
+  "Carreira/Curriculo": "📰",
+  "Recursos": "LiBoxes",
+  "Recursos/PDFs e Ebooks": "📚",
+  "Recursos/Cursos": "LiVideotape",
+  "Recursos/Documentações": "LiDock"
 }
