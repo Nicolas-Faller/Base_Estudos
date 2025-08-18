@@ -11,14 +11,10 @@
             "id": "d796e61265440991",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Áreas de Conhecimento/Desenvolvimento/JavaScript/Test2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Test2"
+              "title": "New tab"
             }
           }
         ]
@@ -115,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Áreas de Conhecimento/Desenvolvimento/JavaScript/Test2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test2"
+              "title": "Backlinks"
             }
           },
           {
@@ -134,12 +129,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Áreas de Conhecimento/Desenvolvimento/JavaScript/Test2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test2"
+              "title": "Outgoing links"
             }
           },
           {
@@ -163,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Áreas de Conhecimento/Desenvolvimento/JavaScript/Test2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test2"
+              "title": "Outline"
             }
           },
           {
@@ -252,8 +245,8 @@
   },
   "active": "d796e61265440991",
   "lastOpenFiles": [
-    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Teste.md",
     "Áreas de Conhecimento/Desenvolvimento/JavaScript/Test2.md",
+    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Teste.md",
     "Pasta de organização/Botões.md",
     "Projetos/🖍️ Planejados",
     "Projetos/🗄️ Concluídos",
