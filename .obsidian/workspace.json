@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0bd92870466ec164",
+        "id": "7f4ceae08f03b974",
         "type": "tabs",
         "children": [
           {
-            "id": "8b3b3a93575ef1fa",
+            "id": "8c48d75fab84cead",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cscharp"
+              "title": "New tab"
             }
           }
         ]
@@ -108,7 +104,7 @@
         "dimension": 43.75,
         "children": [
           {
-            "id": "050799acfac96b65",
+            "id": "e39ea191fef0f2bf",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -199,7 +195,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cdcadf6bdd0c3903",
@@ -239,10 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c9c60a1f820765f",
+  "active": "8c48d75fab84cead",
   "lastOpenFiles": [
-    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
+    "Pasta de Configuração/GIT/Comandos Git.md",
     "Pasta de Configuração/Menu.md",
+    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
     "Áreas de Conhecimento/Desenvolvimento/Cscharp/Csharp.md",
     "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/obj/Debug/Debug.md",
     "Tags",
@@ -256,7 +254,6 @@
     "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/Rascunho.AssemblyInfoInputs.cache",
     "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/Rascunho.AssemblyInfo.cs",
     "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0",
-    "Pasta de Configuração/GIT/Comandos Git.md",
     "Pasta de Configuração/Templates/Templates.md",
     "Pasta de Configuração/GIT/GIT.md",
     "Pasta de Configuração/Templates/Rascunho.md",
