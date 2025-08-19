@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Pasta de Configuração/Comandos GIT/Comandos Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Comandos Git"
             }
           }
         ]
@@ -107,7 +107,7 @@
       {
         "id": "7bef1e9af75323d3",
         "type": "tabs",
-        "dimension": 52.77777777777778,
+        "dimension": 50.41666666666666,
         "children": [
           {
             "id": "dfbeaf94ac7c2ede",
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Pasta de Configuração/Botões.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,21 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
-            }
-          },
-          {
-            "id": "93d16bc44ecb3b84",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "README.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Backlinks for Botões"
             }
           },
           {
@@ -163,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Pasta de Configuração/Botões.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Botões"
             }
           },
           {
@@ -207,14 +193,28 @@
               "icon": "lucide-file",
               "title": "Botões"
             }
+          },
+          {
+            "id": "2a16bd2e1e124a9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasta de Configuração/Comandos GIT/Comandos Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Comandos Git"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "6d90d4cfafd18c9b",
         "type": "tabs",
-        "dimension": 47.22222222222222,
+        "dimension": 49.58333333333334,
         "children": [
           {
             "id": "ca682adc285cfb78",
@@ -236,6 +236,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -245,31 +246,30 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false,
-      "dashboard-navigator:Open dashboard navigator": false,
-      "homepage:Open homepage": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "652555a471a4d88c",
   "lastOpenFiles": [
+    "Drafts/Códigos/Csharp/Macro/Pesquisa_de_chamados (1).csv",
+    "Drafts/Códigos/Csharp/Macro/new 8.txt",
+    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/Properties/Settings.settings",
+    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/Properties/Settings.Designer.cs",
+    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/Properties/Resources.resx",
+    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/Properties/Resources.Designer.cs",
+    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/Properties/AssemblyInfo.cs",
+    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/Properties",
+    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/obj/Debug/Macro_Qualitor.csproj.AssemblyReference.cache",
+    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/obj/Debug/TempPE",
+    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache",
+    "Untitled.canvas",
+    "Pasta de Configuração/Comandos GIT/Comandos Git.md",
     "Pasta de Configuração/Botões.md",
     "README.md",
-    "Recursos/Documentações",
-    "Recursos/Cursos",
-    "Recursos/Untitled/Untitled",
-    "Recursos/PDFs e Ebooks",
-    "Recursos",
-    "Carreira/Curriculo",
-    "Carreira/Certificações",
-    "Carreira/Entrevistas",
-    "Carreira",
     "Áreas de Conhecimento/Desenvolvimento/JavaScript/Test2.md",
     "Áreas de Conhecimento/Desenvolvimento/Cscharp/Teste.md",
-    "Projetos/🖍️ Planejados",
     "Áreas de Conhecimento/Desenvolvimento/Untitled.md",
-    "Pasta de Configuração/Comandos GIT/Comandos Git.md",
     "Untitled.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Pasted image 20250818152544.png",
     "sdasdsad.md",

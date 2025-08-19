@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiDock",
-      "LiVideotape",
-      "📚",
-      "LiBoxes",
-      "📰"
+      "LiTable",
+      "#️⃣",
+      "LiCode2",
+      "LiDraftingCompass",
+      "LiDock"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -54,5 +54,9 @@
   "Recursos/Documentações": "LiDock",
   "Pasta de Configuração": "LiCog",
   "Pasta de Configuração/Comandos GIT": "LiAnchor",
-  "Pasta de Configuração/Botões.md": "LiAnchor"
+  "Pasta de Configuração/Botões.md": "LiAnchor",
+  "Drafts": "LiDraftingCompass",
+  "Drafts/Códigos": "LiCode2",
+  "Drafts/Códigos/Csharp": "#️⃣",
+  "Drafts/Códigos/Csharp/Macro": "LiTable"
 }

@@ -1,0 +1,23 @@
+Posso gera-los mensalmente e coloca-los numa pasta da rede.
+
+ 
+
+Elaborar um Dashboards/ painéis interativos que possam mostrar as informações geradas a partir do CSV.
+As visões precisam ser mostradas/filtradas de forma mensal, trimestral, anual
+Clientes que não abriram chamados nos últimos 3 meses:
+Usar 2 planilhas em anexo, a Pesquisa_de_contratos_de_clientes.csv é para saber se o cliente ainda possui contrato ativo.
+A planilha Pesquisa_de_chamados (1).csv contém os chamados de todos os clientes independentemente de estar Ativo ou Não Ativo, não deve ser apagado dados, mas tem que ter algo que mostre que o cliente não está mais Ativo (cruzando essas informações).
+O objetivo acima é trazer as seguintes informações: Cliente, Tipo de Contrato, Ativo (este vem de outra planilha) Mês, Total – de forma interativa
+Quais clientes são de contrato ou Suporte ou de ambos, percentualmente (gráfico de pizza por exemplo)
+Em que data vencem os contratos.
+Quantidade de chamados por responsável com filtro
+Soma de horas trabalhadas por responsável
+Visão dinâmica por equipe do responsável.
+Quantidade de chamados por cliente
+Soma de horas por clientes
+Quantidade de chamados por categorias (1,2)
+Relação de chamados com mais de 30 dias
+Chamados por prioridades
+Quanto tempo medido da “Abertura” até a nossa primeira ação “Data da última atualização”
+Chamados Por situação
+Chamados por operador
