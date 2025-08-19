@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAnchor",
       "LiTable",
       "#️⃣",
       "LiCode2",
-      "LiDraftingCompass",
-      "LiDock"
+      "LiDraftingCompass"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -58,5 +58,6 @@
   "Drafts": "LiDraftingCompass",
   "Drafts/Códigos": "LiCode2",
   "Drafts/Códigos/Csharp": "#️⃣",
-  "Drafts/Códigos/Csharp/Macro": "LiTable"
+  "Drafts/Códigos/Csharp/Macro": "LiTable",
+  "Pasta de Configuração/Templates": "LiAnchor"
 }
