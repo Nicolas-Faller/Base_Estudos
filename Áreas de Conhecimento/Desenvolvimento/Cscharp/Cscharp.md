@@ -71,10 +71,18 @@
  - **Liskov Substitution** (behavioral subtyping, contract compliance)
  - **Interface Segregation** (client-specific interfaces, role interfaces)
  - **Dependency Inversion** (abstractions, dependency injection, IoCS containers)
-## Recursos Avançados e Funcional
+## Recursos Avançados e Funcionais
 
 > Breve descrição do conteúdo
-#####
+##### Generics
+- **Generic Types** (classes, interfaces, structs, delegates, methods)
+- **Type Parameters** (naming conventions, multiple parameters, nested generics)
+- **Constraints** (where T : class, struct, new(), interface constraints, type constraints)
+- **Variance** (covariance, contravariance, in/out keywords, delegate variance)
+- **Generic Collections** (List\<T>, Dictionary\<TKey, TValue>, specialized collections)
+- **Performance** (code sharing, type safety, JIT compilation, generic specialization)
+- **Reflection with Generics** (Type.IsGenericType, GetGenericArguments, MakeGenericType)
+
 
 
 

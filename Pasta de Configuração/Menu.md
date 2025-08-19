@@ -10,5 +10,9 @@ type command
 action Go to tab #2
 color purple
 ```
- ******
- 
+ ```button
+name Agenda
+type command
+action Full Calendar: Open Calendar
+color purple
+```

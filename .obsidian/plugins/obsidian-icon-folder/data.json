@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendar",
       "FabHtml5",
       "LiAnchor",
       "LiTable",
-      "#️⃣",
-      "LiCode2"
+      "#️⃣"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -65,5 +65,7 @@
   "Pasta de Configuração/Templates/Templates.md": "LiAnchor",
   "Pasta de Configuração/GIT/GIT.md": "LiAnchor",
   "Áreas de Conhecimento/Desenvolvimento/HTML": "FabHtml5",
-  "Pasta de Configuração/Menu.md": "LiAnchor"
+  "Pasta de Configuração/Menu.md": "LiAnchor",
+  "Eventos": "LiCalendar",
+  "Pasta de Configuração/Templates/Template Eventos.md": "LiAnchor"
 }

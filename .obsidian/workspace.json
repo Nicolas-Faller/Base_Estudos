@@ -4,24 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "7f4ceae08f03b974",
+        "id": "35bfef2f77c075e6",
         "type": "tabs",
         "children": [
           {
-            "id": "8c48d75fab84cead",
+            "id": "98ff1788e6e204de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
+                "file": "Pasta de Configuração/Pasta de Configuração.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cscharp"
+              "title": "Pasta de Configuração"
+            }
+          },
+          {
+            "id": "db97bd7b2848397b",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "5f8c43f8601d6f1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eventos/21-08-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "21-08-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -33,6 +58,7 @@
       {
         "id": "0988ef7caead7a51",
         "type": "tabs",
+        "dimension": 58.25958702064897,
         "children": [
           {
             "id": "8cbd4ea92eb9173e",
@@ -79,6 +105,7 @@
       {
         "id": "5ce262905983d23f",
         "type": "tabs",
+        "dimension": 41.740412979351035,
         "children": [
           {
             "id": "6c9c60a1f820765f",
@@ -105,10 +132,10 @@
       {
         "id": "08b2064cfa2f3525",
         "type": "tabs",
-        "dimension": 43.75,
+        "dimension": 47.5,
         "children": [
           {
-            "id": "e39ea191fef0f2bf",
+            "id": "5ff9d02802e0c4c8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -124,82 +151,19 @@
             }
           },
           {
-            "id": "5ff9d02802e0c4c8",
+            "id": "e39ea191fef0f2bf",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasta de Configuração/GIT/Comandos Git.md",
-                "mode": "source",
+                "file": "Pasta de Configuração/Menu.md",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Comandos Git"
-            }
-          },
-          {
-            "id": "78bd1021d5dc24ac",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Cscharp"
-            }
-          },
-          {
-            "id": "e7b393db05cfceb0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Cscharp"
-            }
-          },
-          {
-            "id": "3e66d7984e745f85",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "652bebce757d9f41",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Cscharp"
+              "title": "Menu"
             }
           }
         ]
@@ -207,7 +171,7 @@
       {
         "id": "cdcadf6bdd0c3903",
         "type": "tabs",
-        "dimension": 56.25,
+        "dimension": 52.5,
         "children": [
           {
             "id": "cbc8f43cc644fd60",
@@ -219,13 +183,28 @@
               "pinned": true,
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
-            }
+            },
+            "group": "6032059ebc123501"
+          },
+          {
+            "id": "a2e0eace4dd9ea9f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "full-calendar-sidebar-view",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-glyph",
+              "title": "Full Calendar"
+            },
+            "group": "6032059ebc123501"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,37 +218,48 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "8c48d75fab84cead",
+  "active": "db97bd7b2848397b",
   "lastOpenFiles": [
+    "Pasta de Configuração/Menu.md",
+    "Eventos/21-08-2025.md",
+    "Pasta de Configuração/Templates/Template Eventos.md",
+    "Eventos/2025-08-18.md",
+    "Eventos/2025-08-22.md",
+    "Eventos/2025-08-19.md",
+    "Eventos/Evento.md",
+    "Pasta de Configuração/Templates/Templates.md",
+    "Pasta de Configuração/Templates/Rascunho.md",
+    "Eventos/Tam024.md",
+    "Eventos/2025-08-21.md",
+    "Pasta de Configuração/Pasta de Configuração.md",
+    "Eventos/Untitled.md",
+    "Carreira/Carreira.md",
+    "Eventos/2025-08-18 kjkjsad.md",
+    "Eventos/2025-08-18 Teste.md",
+    "Eventos/2025-08-19 Teste.md",
+    "Pasta de Configuração/2025-08-21 Entrevista.md",
+    "Eventos/2025-08-20 Teste.md",
+    "Eventos",
     "Recursos/PDFs e Ebooks/CSharpIniciantes.pdf",
     "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
-    "Pasta de Configuração/Menu.md",
+    "CSharpIniciantes.pdf",
+    "Calendario.md",
+    "2025-08-12.md",
+    "Drafts/Test.md",
+    "Drafts/Teste.md",
+    "Drafts/te.md",
     "Pasta de Configuração/GIT/Comandos Git.md",
-    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Csharp.md",
-    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/obj/Debug/Debug.md",
     "Tags",
-    "Pasta de Configuração/Pasta de Configuração.md",
     "Áreas de Conhecimento/Desenvolvimento/HTML",
     "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/refint",
     "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/ref",
     "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/Rascunho.GlobalUsings.g.cs",
     "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/Rascunho.GeneratedMSBuildEditorConfig.editorconfig",
-    "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/Rascunho.assets.cache",
-    "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/Rascunho.AssemblyInfoInputs.cache",
-    "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/Rascunho.AssemblyInfo.cs",
-    "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0",
-    "Pasta de Configuração/Templates/Templates.md",
-    "Pasta de Configuração/GIT/GIT.md",
-    "Pasta de Configuração/Templates/Rascunho.md",
-    "Drafts/[Templates.md",
-    "Pasta de Configuração/Tags.md",
-    "Drafts/Pasta De Configuração.md",
-    "Drafts/Templates.md",
-    "Drafts/tTe.md",
-    "Drafts/akdmasn.md",
-    "README.md"
+    "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/Rascunho.assets.cache"
   ]
 }
