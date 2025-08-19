@@ -53,11 +53,16 @@
   "Recursos/Cursos": "LiVideotape",
   "Recursos/Documentações": "LiDock",
   "Pasta de Configuração": "LiCog",
-  "Pasta de Configuração/Comandos GIT": "LiAnchor",
   "Drafts": "LiDraftingCompass",
   "Drafts/Códigos": "LiCode2",
   "Drafts/Códigos/Csharp": "#️⃣",
   "Drafts/Códigos/Csharp/Macro": "LiTable",
   "Pasta de Configuração/Templates": "LiAnchor",
-  "Pasta de Configuração/Menu.md": "LiAnchor"
+  "Pasta de Configuração/Menu.md": "LiAnchor",
+  "Pasta de Configuração/Tags.md": "LiAnchor",
+  "Pasta de Configuração/Templates/Rascunho.md": "LiAnchor",
+  "Pasta de Configuração/Pasta de Configuração.md": "LiAnchor",
+  "Pasta de Configuração/GIT": "LiAnchor",
+  "Pasta de Configuração/Templates/Templates.md": "LiAnchor",
+  "Pasta de Configuração/GIT/GIT.md": "LiAnchor"
 }

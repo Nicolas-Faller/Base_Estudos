@@ -10,7 +10,8 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "draft": 1
+    "draft": 1,
+    "dasd": 2
   },
   "_version": 3
 }
