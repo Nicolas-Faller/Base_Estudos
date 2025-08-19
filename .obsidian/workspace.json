@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "2baf6c9ffb81f908",
+    "id": "834fbe7766cbd8f6",
     "type": "split",
     "children": [
       {
-        "id": "d9534c955b1a60e4",
+        "id": "170d7b2c8045f982",
         "type": "tabs",
         "children": [
           {
-            "id": "2324b1dfa9445288",
+            "id": "01471ebed61cb602",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Carreira/Carreira.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Carreira"
+              "title": "New tab"
             }
           }
         ]
@@ -27,16 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f9e72a91d5a7f938",
+    "id": "5ab52de710215314",
     "type": "split",
     "children": [
       {
-        "id": "2f1b94df4dbb91c3",
+        "id": "0988ef7caead7a51",
         "type": "tabs",
-        "dimension": 62.24188790560472,
         "children": [
           {
-            "id": "652555a471a4d88c",
+            "id": "8cbd4ea92eb9173e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,12 +44,12 @@
             }
           },
           {
-            "id": "b815c3b838f75b2d",
+            "id": "912855fa47fc042b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "read",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +61,7 @@
             }
           },
           {
-            "id": "8e9de8dce200e3a0",
+            "id": "4353f736cd0d1423",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,18 +73,15 @@
         ]
       },
       {
-        "id": "bd6fe6cb043a9644",
+        "id": "5ce262905983d23f",
         "type": "tabs",
-        "dimension": 37.75811209439528,
         "children": [
           {
-            "id": "b2eba163060e0c0a",
+            "id": "6c9c60a1f820765f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -98,132 +90,62 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 300
   },
   "right": {
-    "id": "921c943df91252fe",
+    "id": "4cb2abe728f63ae0",
     "type": "split",
     "children": [
       {
-        "id": "7bef1e9af75323d3",
+        "id": "08b2064cfa2f3525",
         "type": "tabs",
-        "dimension": 50.41666666666666,
+        "dimension": 43.75,
         "children": [
           {
-            "id": "dfbeaf94ac7c2ede",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Pasta de Configuração/Botões.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Botões"
-            }
-          },
-          {
-            "id": "7238ef32db94e6ab",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "d1e97693eadb9cba",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Pasta de Configuração/Botões.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Botões"
-            }
-          },
-          {
-            "id": "54966fd70e0f393f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "a01618d0b39d2113",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
-          },
-          {
-            "id": "07e3920dcf87f144",
+            "id": "050799acfac96b65",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasta de Configuração/Botões.md",
+                "file": "Pasta de Configuração/Menu.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Botões"
+              "title": "Menu"
             }
           },
           {
-            "id": "2a16bd2e1e124a9d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Pasta de Configuração/Comandos GIT/Comandos Git.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Comandos Git"
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "6d90d4cfafd18c9b",
-        "type": "tabs",
-        "dimension": 49.58333333333334,
-        "children": [
-          {
-            "id": "ca682adc285cfb78",
+            "id": "1a5142e43d608780",
             "type": "leaf",
             "pinned": true,
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pasta de Configuração/Comandos GIT/Comandos Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Comandos Git"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cdcadf6bdd0c3903",
+        "type": "tabs",
+        "dimension": 56.25,
+        "children": [
+          {
+            "id": "cbc8f43cc644fd60",
+            "type": "leaf",
+            "state": {
               "type": "calendar",
               "state": {},
-              "pinned": true,
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
@@ -232,60 +154,29 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-memos:Thino": false
     }
   },
-  "active": "2324b1dfa9445288",
+  "active": "6c9c60a1f820765f",
   "lastOpenFiles": [
-    "Carreira/Carreira.md",
-    "Pasta de Configuração/Botões.md",
-    "Drafts/Untitled.md",
-    "Pasta de Configuração/Templates/Rascunho.md",
-    "Untitled.md",
-    "Pasta de Configuração/Templates",
+    "Pasta de Configuração/Menu.md",
     "Pasta de Configuração/Comandos GIT/Comandos Git.md",
-    "Drafts/Códigos/Csharp/Macro/Pesquisa_de_chamados (1).csv",
-    "Drafts/Códigos/Csharp/Macro/new 8.txt",
-    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/Properties/Settings.settings",
-    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/Properties/Settings.Designer.cs",
-    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/Properties/Resources.resx",
-    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/Properties/Resources.Designer.cs",
-    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/Properties/AssemblyInfo.cs",
-    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/Properties",
-    "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/obj/Debug/Macro_Qualitor.csproj.AssemblyReference.cache",
-    "Untitled.canvas",
-    "README.md",
-    "Áreas de Conhecimento/Desenvolvimento/JavaScript/Test2.md",
-    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Teste.md",
-    "Áreas de Conhecimento/Desenvolvimento/Untitled.md",
-    "Untitled 1.canvas",
-    "Pasted image 20250818152544.png",
-    "sdasdsad.md",
-    "Tetse.md",
-    "Pasta de organização/Comandos GIT/TESE.md",
-    "Mind Map.md",
-    "Coletas.md",
-    "PDF++.md",
-    "Teste.md",
-    "Pasted image 20250818131131.png",
-    "Code Styler.md",
-    "Arquivo De Push.md",
-    "pull2.md",
-    "Teste 2 pos config.md",
-    "Welcome.md"
+    "Drafts/akdmasn.md",
+    "README.md"
   ]
 }
