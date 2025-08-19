@@ -8,5 +8,7 @@
     "downscalePercent": 100
   },
   "newFileLocation": "folder",
-  "newFileFolderPath": "Drafts"
+  "newFileFolderPath": "Drafts",
+  "propertiesInDocument": "hidden",
+  "showUnsupportedFiles": true
 }
