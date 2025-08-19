@@ -8,23 +8,23 @@
 ## Fundamentos e Sintaxe
 
 >Breve descrição do conteúdo
-#### Core Language
+##### Core Language
 - **Type System** (value types, reference types, nullable types, var, dynamic, object)
 - **Operators** (arithmetic, logical, bitwise, assignment, null-coalescing, null-conditional)
 - **Control Flow** (if/else, switch expressions, pattern matching, goto, break, continue)
 - **Methods** (parameters, return types, overloading, optional parameters, named arguments)
 - **Scope and Lifetime** (local variables, fields, static members, accessibility)
-#### Memory Management
+##### Memory Management
 - **Stack vs Heap** (value type allocation, reference type allocation)
 - **Garbage Collection** (generations, finalization, IDisposable, using  statements)
 - **Memory Patterns** (object pooling, memory leaks, week references)
 - **Performance** (boxing/unboxing, struct vs class, memory profiling)
-#### Exception Handling
+##### Exception Handling
 - **Exception Hierarchy** (SystemException, ApplicationException, custom exceptions)
 - **Try/Catch/Finally** (multiple catch blocks, exception filters, when clauses)
 - **Exception Best Practices** (fail-test, exception safety, logging)
 - **Global Exception Handling** (unhandled, exception events, middleware)
-#### String Processing
+##### String Processing
 - **String Fundamentals** (immutability, interning, StringBuilder)
 - **Manipulation** (Substring, Split, Join, Replace, Trim, Padding)
 - **Formatting** (compose formatting, interpolation, custom formats, cultures)
@@ -34,34 +34,47 @@
 ## Orientação a Objetos e Design
 
 >Breve descrição do conteúdo
-#### OOP Fundamentals
+##### OOP Fundamentals
 - **Classes** (declaration, members, nested classes, partial classes)
 - **Objects** (instantiation, initialization, object life-cycle, finalization)
 - **Fields** (instance, static, readonly, const, initialization)
 - **Properties** (auto-implemented, computed, indexers, property patterns)
 - **Constructors** (instance, static, chaining, copy, constructors)
 - **Methods** (Instance, static, virtual, sealed, extension methods)
-#### Inheritance
+##### Inheritance
 - **Base Classes** (System Object, virtual members, protected access)
 - **Derived Classes** (override, new, base keyword, constructor chaining)
 - **Abstracted Classes** (abstract members, concrete implementations, sealed classes)
 - **Sealed Classes** (preventing inheritance, performance implications)
-#### Polymorphism
+##### Polymorphism
 - **Virtual Methods** (late binding, virtual dispatch, performance)
 - **Interface Implementation** (explicit, implicit, multiple interfaces)
 - **Operator Overloading** (arithmetic, variance, specialization)
-#### Encapsulation
+##### Encapsulation
 - **Access Modifiers** (public, private, protected, internal, protected internal, private protected)
 - **Information Hiding** (Implementation details, API design)
 - **Immutability** (readonly, init-only properties, record types)
-#### Advanced OOP
+##### Advanced OOP
 - **Composition vs inheritance** (has-a vs is-a relationships)
 - **Mixins and Traits** (default interface implementations)
 - **Value Types** (structs, records, equality, hashing)
 - **Reference Types** (classes, reference equality, shallow vs deep copy)
-#### Design Patterns
+##### Design Patterns
 - **Creational** (Factory, Abstract Factory, Builder, Prototype, Singleton)
 - **Structural** (Adapter, Bridge, Composite, Decorator, Facade)
+- **Behavioral** (Chain of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, Visitor )
+- **Enterprise Patterns** (Repository, Unit of Work, Service Layer, Domain Model, Data Mapper)
+- **Concurrency Patterns** (Producer-Consumer, Read-Write-Lock, Thread Pool, Actor Model)
+##### SOLID Principles
+ - **Single Responsibility** (cohesion, coupling, responsibility assignment)
+ - **Open/Closed** (extension vs modification, plugin architectures)
+ - **Liskov Substitution** (behavioral subtyping, contract compliance)
+ - **Interface Segregation** (client-specific interfaces, role interfaces)
+ - **Dependency Inversion** (abstractions, dependency injection, IoCS containers)
+## Recursos Avançados e Funcional
+
+> Breve descrição do conteúdo
+#####
 
 
 

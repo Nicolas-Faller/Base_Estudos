@@ -11,10 +11,14 @@
             "id": "8c48d75fab84cead",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cscharp"
             }
           }
         ]
@@ -141,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Cscharp"
             }
           },
           {
@@ -159,11 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Cscharp"
             }
           },
           {
@@ -187,16 +193,16 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Cscharp"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cdcadf6bdd0c3903",
@@ -238,9 +244,10 @@
   },
   "active": "8c48d75fab84cead",
   "lastOpenFiles": [
-    "Pasta de Configuração/GIT/Comandos Git.md",
-    "Pasta de Configuração/Menu.md",
+    "Recursos/PDFs e Ebooks/CSharpIniciantes.pdf",
     "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
+    "Pasta de Configuração/Menu.md",
+    "Pasta de Configuração/GIT/Comandos Git.md",
     "Áreas de Conhecimento/Desenvolvimento/Cscharp/Csharp.md",
     "Drafts/Códigos/Csharp/Macro/Macro_Qualitor/Macro_Qualitor/obj/Debug/Debug.md",
     "Tags",
