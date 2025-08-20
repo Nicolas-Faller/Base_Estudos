@@ -85,16 +85,39 @@
 ##### Delegates e Events
 - **Delegate Fundamentals** (function pointers, method groups, anonymous methods)
 - **Multicast Delegates** (invocation lists, += operator, null propagation)
-- **Built-in Delegates** (Action<\T>, Func<\T>, Predicate<\T>, Comparison<\T> )
+- **Built-in Delegates** (Action\<T>, Func\<T>, Predicate\<T>, Comparison\<T> )
 - **Anonymous Functions** (lambda expressions, closures, captured variables)
-- **Events** (publisher-subscriber, event accessors, EventHandler<\T>)
+- **Events** (publisher-subscriber, event accessors, EventHandler\<T>)
 - **Functional Programming** (higher-order functions, immutability, pure functions)
 - **Performance** (delegate caching, method group conversions, allocation patterns)
 ##### LINQ
 - **Query Syntax**  (from, where, select, join, group, orderby, let)
 - **Method Syntax** (Where, Select, SelectMany, Join, GroupBy, OrderBy, Aggregate)
 - **Standard Query Operators** (filtering, projection, aggregation, quantification, partitioning)
-- **Deferred Excecution**
+- **Deferred Execution** (IEnumeable vs IQueryable, lazy evaluation, iterator blocks)
+- **LINQ Providers** (LINQ to Objects, LINQ to SQL, Entity Framework, custom providers)
+- **Expressions Trees** (Expression\<T>, compilation, translation, custom providers)
+- **Performance** (query optmization, materialization, N + 1 problems, indexing)
+- **Advanced Scenarios** (dynamic queries, predicate builders, specification pattern)
+##### Async / Await
+- **Task-based Asynchronous Pattern**  (TAP, Task\<T>, ValueTask\<T>)
+- **Async/Await Keywords** (state machines, context capture, ConfigureAwait)
+- **Cancellation** (Cancellation Token, timeout, cooperative cancellation)
+- **Parallel Programming** (Parallel.ForEach, PLINQ, Task.WhenAll, Task.WhenAny)
+- **Synchronization** (SemaphoreSlim, AsyncLock, concurrent collections)
+- **Error Handling** (AggregateException, exception propagation, fault tolerance)
+- **Performance** (thread pool, context switching, async overhead, scalability)
+- **Patterns** (async streams, channels, producer-consumer, pipeline patterns)
+## Estrutura de Dados e Algoritmos
+
+> Breve descrição do conteúdo
+##### Built-in Collections
+- **Arrays** (single-dimensional, multi-dimensional, jagged, array covariance)
+- **Generic Collections** (List\<T>, Dictionary\<TKey, TValue>, HashSet\<T>, Queue\<T>, Stack\<T>)
+- **Specialized Collections** (SortedList, SortedDictionary, LinkedList, BitArray)
+- Concurrent Collections (ConcurrentDictionary, ConcurrentQueue, BlockingCollection)
+- Immutable Collections (ImmutableList, ImmutableDictionary, builder patterns)
+- Collection Interfaces (IEnumerable\<T>, ICollection\<T>, IList\<T>, IDictionary\<TKey,TValue>)
 
 
 
@@ -113,3 +136,5 @@
 
 
  
+
+

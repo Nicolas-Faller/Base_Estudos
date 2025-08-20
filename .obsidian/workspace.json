@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "72d0c309bc7f8942",
+        "id": "d04bf015205201d0",
         "type": "tabs",
         "children": [
           {
-            "id": "709b53a5f91ee212",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "1144cac94908f302",
+            "id": "f849e0adea2879c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasta de Configuração/Templates/Daily Note Template.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Note Template"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +45,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -102,14 +91,14 @@
               "state": {},
               "pinned": true,
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Visualização em gráfico"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.5124969482422
+    "width": 230.5110321044922
   },
   "right": {
     "id": "4cb2abe728f63ae0",
@@ -153,26 +142,12 @@
             }
           },
           {
-            "id": "6cca565a7fe2ee80",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Eventos/Atividades/Tasks.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Tasks"
-            }
-          },
-          {
-            "id": "ba4eaa0f1ebba023",
+            "id": "4f69fe23f7741355",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,24 +157,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para README"
             }
           },
           {
-            "id": "422921eb6f3c79a7",
+            "id": "de680a8bc2d9e3fc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Links de saída para README"
             }
           },
           {
-            "id": "fb4b2f08b2c66c7d",
+            "id": "6b7fd0882f5762d0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -211,6 +187,21 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          },
+          {
+            "id": "cd8a1c776f71f34e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de README"
             }
           }
         ]
@@ -244,43 +235,88 @@
               "title": "Full Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "quickadd:QuickAdd": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "bases:Create new base": true,
       "pdf-plus:PDF++: Toggle auto-copy": true,
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true,
       "obsidian-git:Open Git source control": true,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "6c9c60a1f820765f",
+  "floating": {
+    "id": "dbd83b26768e3357",
+    "type": "floating",
+    "children": [
+      {
+        "id": "bd6ea8a27856600c",
+        "type": "window",
+        "children": [
+          {
+            "id": "af1a4fc97383f2ab",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2295a0c07c47d9a8",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Recursos/PDFs e Ebooks/CSharpIniciantes.pdf",
+                    "page": 27,
+                    "left": -62,
+                    "top": 563,
+                    "zoom": 1.6
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "CSharpIniciantes"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1498,
+        "y": 79,
+        "width": 1077,
+        "height": 720,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "f849e0adea2879c7",
   "lastOpenFiles": [
-    "Pasta de Configuração/Templates/Daily Note Template.md",
+    "Pasta de Configuração/Menu.md",
+    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Csharp para inciantes/Modulo 1.md",
+    "Recursos/PDFs e Ebooks/CSharpIniciantes.pdf",
+    "Drafts/C.md",
+    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
+    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Csharp para inciantes",
+    "Eventos/21-08-2025 - Thursday.md",
     "Eventos/18-08-2025 - Monday.md",
+    "Pasta de Configuração/GIT/Comandos Git.md",
+    "Pasta de Configuração/Templates/Daily Note Template.md",
     "Eventos/20-08-2025 - Wednesday.md",
     "Eventos/20.08.2025  -  Wednesday .md",
-    "Eventos/21-08-2025 - Thursday.md",
     "Eventos/19-08-2025 - Tuesday.md",
     "Pasta de Configuração/Templates/Templates.md",
     "Pasta de Configuração/Templates/Rascunho.md",
-    "Pasta de Configuração/Menu.md",
     "Pasta de Configuração/Pasta de Configuração.md",
     "Eventos/20-08-2025  -  Wednesday.md",
     "Drafts/Untitled.md",
@@ -293,22 +329,15 @@
     "Eventos/Wednesday Aug (20 - 08 - 2025).md",
     "Eventos/(Every F,R,W,T,M) Revisão Backups.md",
     "teste.md",
-    "Calendar/Calendar.md",
     "Calendar",
-    "Eventos/Atividades/Tasks.md",
-    "Áreas de Conhecimento/Áreas de Conhecimento.md",
     "Eventos/Atividades",
-    "Eventos/(Every F,R,W,T,M) Recor.md",
-    "Eventos/Wednesday - Aug   (20 - 08 - 2025).md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Eventos",
-    "Recursos/PDFs e Ebooks/CSharpIniciantes.pdf",
     "CSharpIniciantes.pdf",
     "Tags",
     "Áreas de Conhecimento/Desenvolvimento/HTML",
     "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/refint",
-    "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/ref",
-    "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/Rascunho.GlobalUsings.g.cs"
+    "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/ref"
   ]
 }
