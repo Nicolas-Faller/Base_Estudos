@@ -10,5 +10,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Drafts",
   "propertiesInDocument": "hidden",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "foldHeading": true,
+  "foldIndent": true
 }

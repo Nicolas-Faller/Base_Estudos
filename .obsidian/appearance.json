@@ -1,7 +1,10 @@
 {
   "theme": "obsidian",
   "cssTheme": "Obsidianite",
-  "baseFontSize": 17,
+  "baseFontSize": 23,
   "baseFontSizeAction": true,
-  "showRibbon": true
+  "showRibbon": false,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "textFontFamily": "Arial"
 }

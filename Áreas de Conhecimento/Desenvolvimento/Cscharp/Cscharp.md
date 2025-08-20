@@ -82,7 +82,18 @@
 - **Generic Collections** (List\<T>, Dictionary\<TKey, TValue>, specialized collections)
 - **Performance** (code sharing, type safety, JIT compilation, generic specialization)
 - **Reflection with Generics** (Type.IsGenericType, GetGenericArguments, MakeGenericType)
-
+##### Delegates e Events
+- **Delegate Fundamentals** (function pointers, method groups, anonymous methods)
+- **Multicast Delegates** (invocation lists, += operator, null propagation)
+- **Built-in Delegates** (Action<\T>, Func<\T>, Predicate<\T>, Comparison<\T> )
+- **Anonymous Functions** (lambda expressions, closures, captured variables)
+- **Events** (publisher-subscriber, event accessors, EventHandler<\T>)
+- **Functional Programming** (higher-order functions, immutability, pure functions)
+- **Performance** (delegate caching, method group conversions, allocation patterns)
+##### LINQ
+- **Query Syntax**  (from, where, select, join, group, orderby, let)
+- **Method Syntax** (Where, Select, SelectMany, Join, GroupBy, OrderBy, Aggregate)
+- 
 
 
 

@@ -2,15 +2,20 @@
   "calendarSources": [
     {
       "type": "dailynote",
-      "color": "#8457a8",
+      "color": "#ff3300",
       "heading": "Evento"
+    },
+    {
+      "type": "local",
+      "color": "#d7bf23",
+      "directory": "Eventos"
     }
   ],
   "defaultCalendar": 0,
   "firstDay": 0,
   "initialView": {
     "desktop": "timeGridWeek",
-    "mobile": "timeGrid3Days"
+    "mobile": "listWeek"
   },
   "timeFormat24h": false
 }
