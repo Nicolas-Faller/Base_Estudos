@@ -4,24 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "5850787e51fec279",
+        "id": "72d0c309bc7f8942",
         "type": "tabs",
         "children": [
           {
-            "id": "1a46f04dcf21de54",
+            "id": "231d0ef31ba8fb76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
+                "file": "Eventos/20.08.2025  -  Wednesday .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cscharp"
+              "title": "20.08.2025  -  Wednesday"
+            }
+          },
+          {
+            "id": "709b53a5f91ee212",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "410ac96f1da6c126",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 297.5124969482422
   },
   "right": {
     "id": "4cb2abe728f63ae0",
@@ -147,13 +168,59 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
+                "file": "Eventos/Atividades/Tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cscharp"
+              "title": "Outline of Tasks"
+            }
+          },
+          {
+            "id": "ba4eaa0f1ebba023",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "422921eb6f3c79a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "fb4b2f08b2c66c7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ]
@@ -173,21 +240,7 @@
               "pinned": true,
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
-            },
-            "group": "6032059ebc123501"
-          },
-          {
-            "id": "a2e0eace4dd9ea9f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "full-calendar-sidebar-view",
-              "state": {},
-              "pinned": true,
-              "icon": "calendar-glyph",
-              "title": "Full Calendar"
-            },
-            "group": "6032059ebc123501"
+            }
           }
         ]
       }
@@ -197,7 +250,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
+      "quickadd:QuickAdd": false,
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
@@ -208,48 +262,50 @@
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true,
       "obsidian-git:Open Git source control": true,
-      "obsidian-full-calendar:Open Full Calendar": true,
-      "homepage:Open homepage": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1a46f04dcf21de54",
+  "active": "6c9c60a1f820765f",
   "lastOpenFiles": [
-    "Eventos/21-08-2025.md",
+    "Eventos/20.08.2025  -  Wednesday .md",
+    "Eventos/20-08-2025  -  Wednesday.md",
+    "Drafts/Untitled.md",
     "Pasta de Configuração/Menu.md",
-    "Untitled 1.canvas",
-    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
+    "Pasta de Configuração/Templates/Rascunho.md",
+    "Pasta de Configuração/Templates/Template eventos.md",
+    "Pasta de Configuração/Templates/Daily Log -.md",
+    "Eventos/Log .md",
     "Eventos/(Every F,R,W,T,M) Atualizar Chamados.md",
+    "Eventos/2025-08-20.md",
+    "2025-08-20.md",
+    "Eventos/Wednesday Aug (20 - 08 - 2025).md",
     "Eventos/(Every F,R,W,T,M) Revisão Backups.md",
+    "Pasta de Configuração/Templates/Templates.md",
+    "teste.md",
+    "Calendar/Calendar.md",
+    "Calendar",
+    "Eventos/Atividades/Tasks.md",
+    "Áreas de Conhecimento/Áreas de Conhecimento.md",
+    "Eventos/Atividades",
+    "Pasta de Configuração/Pasta de Configuração.md",
+    "Eventos/(Every F,R,W,T,M) Recor.md",
+    "Eventos/Wednesday - Aug   (20 - 08 - 2025).md",
+    "Eventos/20-08-2025.md",
+    "Drafts/Untitled 1.md",
+    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
+    "Eventos/21-08-2025.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasta de Configuração/GIT/Comandos Git.md",
-    "Pasta de Configuração/GIT/GIT.md",
-    "Pasta de Configuração/Pasta de Configuração.md",
-    "Pasta de Configuração/Templates/Template Eventos.md",
-    "Eventos/2025-08-18.md",
-    "Eventos/2025-08-22.md",
-    "Eventos/2025-08-19.md",
-    "Eventos/Evento.md",
-    "Pasta de Configuração/Templates/Templates.md",
-    "Pasta de Configuração/Templates/Rascunho.md",
-    "Eventos/Tam024.md",
-    "Eventos/2025-08-21.md",
-    "Eventos/Untitled.md",
-    "Carreira/Carreira.md",
-    "Eventos/2025-08-18 kjkjsad.md",
-    "Eventos/2025-08-18 Teste.md",
-    "Eventos/2025-08-19 Teste.md",
-    "Pasta de Configuração/2025-08-21 Entrevista.md",
-    "Eventos/2025-08-20 Teste.md",
     "Eventos",
     "Recursos/PDFs e Ebooks/CSharpIniciantes.pdf",
     "CSharpIniciantes.pdf",
-    "Calendario.md",
     "Tags",
     "Áreas de Conhecimento/Desenvolvimento/HTML",
     "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/refint",
     "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/ref",
-    "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/Rascunho.GlobalUsings.g.cs",
-    "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/Rascunho.GeneratedMSBuildEditorConfig.editorconfig",
-    "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/Rascunho.assets.cache"
+    "Drafts/Códigos/Csharp/Testes/Rascunho/obj/Debug/net9.0/Rascunho.GlobalUsings.g.cs"
   ]
 }

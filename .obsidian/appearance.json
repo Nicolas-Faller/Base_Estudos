@@ -3,7 +3,7 @@
   "cssTheme": "Obsidianite",
   "baseFontSize": 23,
   "baseFontSizeAction": true,
-  "showRibbon": false,
+  "showRibbon": true,
   "showViewHeader": true,
   "nativeMenus": false,
   "textFontFamily": "Arial"

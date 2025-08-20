@@ -93,7 +93,8 @@
 ##### LINQ
 - **Query Syntax**  (from, where, select, join, group, orderby, let)
 - **Method Syntax** (Where, Select, SelectMany, Join, GroupBy, OrderBy, Aggregate)
-- 
+- **Standard Query Operators** (filtering, projection, aggregation, quantification, partitioning)
+- **Deferred Excecution**
 
 
 

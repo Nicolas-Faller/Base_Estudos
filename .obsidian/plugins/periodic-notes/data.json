@@ -1,12 +1,12 @@
 {
-  "showGettingStartedBanner": false,
+  "showGettingStartedBanner": true,
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
-    "template": "",
-    "folder": "",
-    "enabled": false
+    "format": "DD.MM.YYYY  -  dddd ",
+    "template": " ",
+    "folder": "Eventos",
+    "enabled": true
   },
   "weekly": {
     "format": "",

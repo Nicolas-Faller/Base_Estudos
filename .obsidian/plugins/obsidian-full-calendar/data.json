@@ -1,14 +1,9 @@
 {
   "calendarSources": [
     {
-      "type": "dailynote",
-      "color": "#ff3300",
-      "heading": "Evento"
-    },
-    {
       "type": "local",
-      "color": "#d7bf23",
-      "directory": "Eventos"
+      "color": "rgba(14, 210, 247, 0.5)",
+      "directory": "Calendar"
     }
   ],
   "defaultCalendar": 0,

@@ -1,5 +1,4 @@
 [
-  "obsidian-banners",
   "code-styler",
   "obsidian-emoji-toolbar",
   "folder-notes",
@@ -7,13 +6,11 @@
   "obsidian-git",
   "calendar",
   "obsidian-icon-folder",
-  "obsidian-file-color",
-  "colored-tags",
   "file-explorer-note-count",
-  "file-explorer-plus",
   "buttons",
-  "obsidian-full-calendar",
+  "templater-obsidian",
   "periodic-notes",
-  "homepage",
-  "advanced-canvas"
+  "quickadd",
+  "obsidian-tasks-plugin",
+  "obsidian-full-calendar"
 ]
