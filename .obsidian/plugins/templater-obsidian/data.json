@@ -15,12 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Pasta de Configuração/Templates",
-      "template": "Pasta de Configuração/Templates/Teste.md"
-    },
-    {
-      "folder": "",
-      "template": ""
+      "folder": "Eventos",
+      "template": "Pasta de Configuração/Templates/Daily Note Template.md"
     }
   ],
   "enable_file_templates": false,

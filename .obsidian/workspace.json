@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "231d0ef31ba8fb76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eventos/20.08.2025  -  Wednesday .md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20.08.2025  -  Wednesday"
-            }
-          },
-          {
             "id": "709b53a5f91ee212",
             "type": "leaf",
             "state": {
@@ -32,17 +18,21 @@
             }
           },
           {
-            "id": "410ac96f1da6c126",
+            "id": "1144cac94908f302",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Pasta de Configuração/Templates/Daily Note Template.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Daily Note Template"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,12 +231,25 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "8cc41c12ae6f4816",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "full-calendar-sidebar-view",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-glyph",
+              "title": "Full Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,11 +272,18 @@
   },
   "active": "6c9c60a1f820765f",
   "lastOpenFiles": [
+    "Pasta de Configuração/Templates/Daily Note Template.md",
+    "Eventos/18-08-2025 - Monday.md",
+    "Eventos/20-08-2025 - Wednesday.md",
     "Eventos/20.08.2025  -  Wednesday .md",
+    "Eventos/21-08-2025 - Thursday.md",
+    "Eventos/19-08-2025 - Tuesday.md",
+    "Pasta de Configuração/Templates/Templates.md",
+    "Pasta de Configuração/Templates/Rascunho.md",
+    "Pasta de Configuração/Menu.md",
+    "Pasta de Configuração/Pasta de Configuração.md",
     "Eventos/20-08-2025  -  Wednesday.md",
     "Drafts/Untitled.md",
-    "Pasta de Configuração/Menu.md",
-    "Pasta de Configuração/Templates/Rascunho.md",
     "Pasta de Configuração/Templates/Template eventos.md",
     "Pasta de Configuração/Templates/Daily Log -.md",
     "Eventos/Log .md",
@@ -282,23 +292,16 @@
     "2025-08-20.md",
     "Eventos/Wednesday Aug (20 - 08 - 2025).md",
     "Eventos/(Every F,R,W,T,M) Revisão Backups.md",
-    "Pasta de Configuração/Templates/Templates.md",
     "teste.md",
     "Calendar/Calendar.md",
     "Calendar",
     "Eventos/Atividades/Tasks.md",
     "Áreas de Conhecimento/Áreas de Conhecimento.md",
     "Eventos/Atividades",
-    "Pasta de Configuração/Pasta de Configuração.md",
     "Eventos/(Every F,R,W,T,M) Recor.md",
     "Eventos/Wednesday - Aug   (20 - 08 - 2025).md",
-    "Eventos/20-08-2025.md",
-    "Drafts/Untitled 1.md",
-    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
-    "Eventos/21-08-2025.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Pasta de Configuração/GIT/Comandos Git.md",
     "Eventos",
     "Recursos/PDFs e Ebooks/CSharpIniciantes.pdf",
     "CSharpIniciantes.pdf",

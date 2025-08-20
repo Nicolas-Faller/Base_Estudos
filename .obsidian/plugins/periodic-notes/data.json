@@ -1,11 +1,11 @@
 {
-  "showGettingStartedBanner": true,
-  "hasMigratedDailyNoteSettings": false,
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "DD.MM.YYYY  -  dddd ",
-    "template": " ",
+    "format": "DD-MM-YYYY - dddd",
     "folder": "Eventos",
+    "template": "Pasta de Configuração/Templates/Daily Note Template.md",
     "enabled": true
   },
   "weekly": {

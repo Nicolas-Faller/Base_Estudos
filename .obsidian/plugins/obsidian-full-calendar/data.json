@@ -1,9 +1,9 @@
 {
   "calendarSources": [
     {
-      "type": "local",
+      "type": "dailynote",
       "color": "rgba(14, 210, 247, 0.5)",
-      "directory": "Calendar"
+      "heading": "Atividades"
     }
   ],
   "defaultCalendar": 0,
