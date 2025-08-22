@@ -12,5 +12,6 @@
   "propertiesInDocument": "hidden",
   "showUnsupportedFiles": true,
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "readableLineLength": false
 }

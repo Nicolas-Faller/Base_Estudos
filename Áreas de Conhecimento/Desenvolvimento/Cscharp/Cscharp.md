@@ -115,9 +115,9 @@
 - **Arrays** (single-dimensional, multi-dimensional, jagged, array covariance)
 - **Generic Collections** (List\<T>, Dictionary\<TKey, TValue>, HashSet\<T>, Queue\<T>, Stack\<T>)
 - **Specialized Collections** (SortedList, SortedDictionary, LinkedList, BitArray)
-- Concurrent Collections (ConcurrentDictionary, ConcurrentQueue, BlockingCollection)
-- Immutable Collections (ImmutableList, ImmutableDictionary, builder patterns)
-- Collection Interfaces (IEnumerable\<T>, ICollection\<T>, IList\<T>, IDictionary\<TKey,TValue>)
+- **Concurrent Collections** (ConcurrentDictionary, ConcurrentQueue, BlockingCollection)
+- **Immutable Collections** (ImmutableList, ImmutableDictionary, builder patterns)
+- **Collection Interfaces** (IEnumerable\<T>, ICollection\<T>, IList\<T>, IDictionary\<TKey,TValue>)
 
 
 
