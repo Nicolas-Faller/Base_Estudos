@@ -1,0 +1,5 @@
+B:\Knolage_Base\Documentação\Obsidian\Base_Estudos\Drafts\Códigos\Csharp\Testes\Rascunho\obj\Debug\net9.0\Rascunho.GeneratedMSBuildEditorConfig.editorconfig
+B:\Knolage_Base\Documentação\Obsidian\Base_Estudos\Drafts\Códigos\Csharp\Testes\Rascunho\obj\Debug\net9.0\Rascunho.AssemblyInfoInputs.cache
+B:\Knolage_Base\Documentação\Obsidian\Base_Estudos\Drafts\Códigos\Csharp\Testes\Rascunho\obj\Debug\net9.0\Rascunho.AssemblyInfo.cs
+B:\Knolage_Base\Documentação\Obsidian\Base_Estudos\Drafts\Códigos\Csharp\Testes\Rascunho\obj\Debug\net9.0\Rascunho.csproj.CoreCompileInputs.cache
+B:\Knolage_Base\Documentação\Obsidian\Base_Estudos\Drafts\Códigos\Csharp\Testes\Rascunho\obj\Debug\net9.0\Rascunho.sourcelink.json

@@ -1,10 +1,19 @@
-﻿namespace Rascunho
+﻿using static System.Console;
+using System;
+using System.Linq;
+
+
+namespace Rascunho
 {
-    internal class Program
+    class funcoesTexto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            WriteLine("------ Funções de Textos -------");
+
+            string empresa = " Microsoft Corporation ";
+            WriteLine("TRIM - retira os espaços em breanco antes e após a expressão");
+            WriteLine($"Nome sem espaços: {empresa.Trim()}");
         }
     }
 }

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "B:\\Knolage_Base\\Documenta\u00E7\u00E3o\\Obsidian\\Base_Estudos\\Drafts\\C\u00F3digos\\Csharp\\Rascunho\\Rascunho\\",
+  "WorkspaceRootPath": "B:\\Knolage_Base\\Documenta\u00E7\u00E3o\\Obsidian\\Base_Estudos\\Drafts\\C\u00F3digos\\Csharp\\Testes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0A695CD-B358-4327-804B-217DE589C843}|Rascunho\\Rascunho.csproj|b:\\knolage_base\\documenta\u00E7\u00E3o\\obsidian\\base_estudos\\drafts\\c\u00F3digos\\csharp\\rascunho\\rascunho\\rascunho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0A695CD-B358-4327-804B-217DE589C843}|Rascunho\\Rascunho.csproj|b:\\knolage_base\\documenta\u00E7\u00E3o\\obsidian\\base_estudos\\drafts\\c\u00F3digos\\csharp\\testes\\rascunho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0A695CD-B358-4327-804B-217DE589C843}|Rascunho\\Rascunho.csproj|solutionrelative:rascunho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "B:\\Knolage_Base\\Documenta\u00E7\u00E3o\\Obsidian\\Base_Estudos\\Drafts\\C\u00F3digos\\Csharp\\Rascunho\\Rascunho\\Rascunho\\Program.cs",
+              "DocumentMoniker": "B:\\Knolage_Base\\Documenta\u00E7\u00E3o\\Obsidian\\Base_Estudos\\Drafts\\C\u00F3digos\\Csharp\\Testes\\Rascunho\\Program.cs",
               "RelativeDocumentMoniker": "Rascunho\\Program.cs",
-              "ToolTip": "B:\\Knolage_Base\\Documenta\u00E7\u00E3o\\Obsidian\\Base_Estudos\\Drafts\\C\u00F3digos\\Csharp\\Rascunho\\Rascunho\\Rascunho\\Program.cs",
+              "ToolTip": "B:\\Knolage_Base\\Documenta\u00E7\u00E3o\\Obsidian\\Base_Estudos\\Drafts\\C\u00F3digos\\Csharp\\Testes\\Rascunho\\Program.cs",
               "RelativeToolTip": "Rascunho\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T16:34:39.112Z",
               "EditorCaption": ""
