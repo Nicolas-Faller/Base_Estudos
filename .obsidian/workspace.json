@@ -287,8 +287,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 946,
-        "y": 524,
+        "x": 878,
+        "y": 404,
         "width": 938,
         "height": 720,
         "maximize": true,
@@ -296,10 +296,10 @@
       }
     ]
   },
-  "active": "b5e3e9788654f852",
+  "active": "8af82ad3a38f6ba7",
   "lastOpenFiles": [
-    "Recursos/PDFs e Ebooks/CSharpIniciantes.pdf",
     "Áreas de Conhecimento/Desenvolvimento/Cscharp/Csharp para inciantes/Modulo 2 -  Funções Internas da Linguagem.md",
+    "Recursos/PDFs e Ebooks/CSharpIniciantes.pdf",
     "Áreas de Conhecimento/Desenvolvimento/Cscharp/Csharp para inciantes/Modulo 1 - Introdução aos conceitos  da linguagem.md",
     "Pasta de Configuração/Pasta de Configuração.md",
     "Pasted image 20250822161113.png",
