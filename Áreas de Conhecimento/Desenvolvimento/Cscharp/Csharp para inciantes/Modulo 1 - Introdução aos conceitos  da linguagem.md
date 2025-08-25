@@ -6,7 +6,8 @@
 ## 📋 Resumo
 
 > Introdução a conceitos básicos da linguagem C# mostrando fundamentos não apenas de suas funções mas também as melhores práticas de gerenciamento de um projeto de software.
-## 📚  [[CSharpIniciantes.pdf#page=31&annotation=1488R|Conceitos Básicos da Linguagem C\#]]
+## 📚  [[CSharpIniciantes.pdf#page=31&annotation=1488R|Conceitos Básicos da Linguagem C#]]
+
 
 ### Namespaces
 
