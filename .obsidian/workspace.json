@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bc83b4f81978bd60",
+        "id": "f7f356282e88e9c7",
         "type": "tabs",
         "children": [
           {
-            "id": "8af82ad3a38f6ba7",
+            "id": "3d50ccf311b54da6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Recursos/PDFs e Ebooks/CSharpIniciantes.pdf",
-                "page": 83,
-                "left": -12,
-                "top": 549,
-                "zoom": 1.564568893947982
+                "file": "Áreas de Conhecimento/Desenvolvimento/Cscharp/Csharp para inciantes/Modulo 3 - Coleções e Conjunto de Dados.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CSharpIniciantes"
+              "icon": "lucide-file",
+              "title": "Modulo 3 - Coleções e Conjunto de Dados"
             }
           }
         ]
@@ -47,7 +45,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -93,7 +91,7 @@
               "state": {},
               "pinned": true,
               "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "title": "Graph view"
             }
           }
         ]
@@ -222,31 +220,30 @@
             }
           },
           {
-            "id": "8cc41c12ae6f4816",
+            "id": "d913e3fa0f3e9e5b",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "full-calendar-sidebar-view",
               "state": {},
-              "pinned": true,
               "icon": "calendar-glyph",
               "title": "Full Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "quickadd:QuickAdd": false,
       "pdf-plus:PDF++: Toggle auto-copy": true,
       "pdf-plus:PDF++: Toggle auto-focus": true,
@@ -258,48 +255,62 @@
     }
   },
   "floating": {
-    "id": "328cdeb117701f8d",
+    "id": "d904d0bf1872cd2b",
     "type": "floating",
     "children": [
       {
-        "id": "61869a12ab96a540",
+        "id": "c637422e7f310c66",
         "type": "window",
         "children": [
           {
-            "id": "5ecb61f5ca1aa077",
+            "id": "eee1065ab5804aa8",
             "type": "tabs",
             "children": [
               {
-                "id": "b5e3e9788654f852",
+                "id": "79326909472fa3dc",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "pdf",
                   "state": {
-                    "file": "Áreas de Conhecimento/Desenvolvimento/Cscharp/Csharp para inciantes/Modulo 2 -  Funções Internas da Linguagem.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Recursos/PDFs e Ebooks/CSharpIniciantes.pdf",
+                    "page": 88,
+                    "left": -159,
+                    "top": 545,
+                    "zoom": 1.5
                   },
-                  "icon": "lucide-file",
-                  "title": "Modulo 2 -  Funções Internas da Linguagem"
+                  "icon": "lucide-file-text",
+                  "title": "CSharpIniciantes"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 878,
-        "y": 404,
-        "width": 938,
+        "x": 391,
+        "y": 13,
+        "width": 926,
         "height": 720,
         "maximize": true,
         "zoom": -0.5
       }
     ]
   },
-  "active": "8af82ad3a38f6ba7",
+  "active": "3d50ccf311b54da6",
   "lastOpenFiles": [
-    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Csharp para inciantes/Modulo 2 -  Funções Internas da Linguagem.md",
     "Recursos/PDFs e Ebooks/CSharpIniciantes.pdf",
+    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Csharp para inciantes/Modulo 3 - Coleções e Conjunto de Dados.md",
+    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Csharp para inciantes/Modulo 2 -  Funções Internas da Linguagem.md",
+    "Pasta de Configuração/Menu.md",
+    "Drafts/[[CSharpIniciantes.pdf.md",
+    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
+    "Drafts/Rascunho.md",
+    "Eventos/26-08-2025 - Tuesday.md",
+    "Eventos/27-08-2025 - Wednesday.md",
+    "Eventos/28-08-2025 - Thursday.md",
+    "Eventos/Atividades/Tasks.md",
+    "Pasta de Configuração/Templates/Daily Note Template.md",
+    "Eventos/26-08-2025 - terça-feira.md",
+    "Eventos/27-08-2025.md",
     "Áreas de Conhecimento/Desenvolvimento/Cscharp/Csharp para inciantes/Modulo 1 - Introdução aos conceitos  da linguagem.md",
     "Pasta de Configuração/Pasta de Configuração.md",
     "Pasted image 20250822161113.png",
@@ -312,11 +323,9 @@
     "Drafts/Códigos/Csharp/Rascunho/C# Pdf/C# Pdf/obj/Debug/net9.0/C# Pdf.GlobalUsings.g.cs",
     "Drafts/Códigos/Csharp/Rascunho/C# Pdf/C# Pdf/obj/Debug/net9.0",
     "Drafts/Códigos/Csharp/Rascunho/C# Pdf/C# Pdf/obj/Debug",
-    "Áreas de Conhecimento/Desenvolvimento/Cscharp/Cscharp.md",
     "Drafts/Conceitos Básicos da Linguagem C.md",
     "Drafts/Sem título.md",
     "Pasted image 20250822133845.png",
-    "Pasta de Configuração/Menu.md",
     "Eventos/22-08-2025 - Friday.md",
     "Eventos/21-08-2025 - quinta-feira.md",
     "Eventos/Calendar.md",
@@ -324,22 +333,12 @@
     "Eventos/18-08-2025 - Monday.md",
     "Calendar/Calendar.md",
     "Calendar/Sem título.md",
-    "Pasta de Configuração/Templates/Daily Note Template.md",
     "Eventos/21-08-2025 - Thursday.md",
-    "Pasta de Configuração/Templates/Templates.md",
-    "Pasta de Configuração/Templates/Rascunho.md",
-    "Eventos/19-08-2025 - Tuesday.md",
-    "Pasta de Configuração/GIT/Comandos Git.md",
-    "Áreas de Conhecimento/Áreas de Conhecimento.md",
     "Pasted image 20250820173618.jpeg",
     "Pasted image 20250820173004.png",
     "Pasted image 20250820172826.png",
     "Pasted image 20250820172231.png",
     "Pasted image 20250820172034.png",
-    "Pasta de Configuração/GIT/GIT.md",
-    "README.md",
-    "Drafts/C.md",
-    "Eventos/20.08.2025  -  Wednesday .md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

@@ -1032,14 +1032,89 @@ Símbolo da moeda: R$
 5432123456
 Data: 21/abr./2021
 ```
+### Convert.To
 
+Há mais uma forma de conversão de tipos que usamos no C#, chama-se *Convert.To(tipo)*. A sintaxe é simples, basta escrever o *Convert.To + tipo de dado*  que pode ser int16, int32, int64, Decimal, String, Boolean ou DateTime.
 
+No código a seguir, na parte de conversão de números, especificamos os tipos só para deixar mais claro, porém poderíamos ter usado o **var** (modo implícito). No caso de números tudo depende do tamanho do mesmo, podendo ser inteiro, longo ou decimal. Nos exemplos, todas as linhas mostradas no resultado usam o GetType() só para provar o tipo, na prática não se usa isto.
 
+Já na conversão para String é passado um valor decimal (250.59M), sem problema algum. Aliás a conversão para String é a mais fácil pois praticamente tudo poder ser convertido para String. No exemplo da variável texto1, no final temos um questionamento ?? se o valor é nulo ou não. Esta sintaxe do ?? é fantástica, pois o compilador já pergunta se o valor de texto1 é nulo. Caso negativo é exibido o próprio valor de texto1; caso afirmativo, é mostrado o "texto é nulo". Esta sintaxe do C# economiza um código de IF().
 
+No exemplo do tipo booleano (verdadeiro ou falso), a conversão permite ler valores false, true ou números, sendo que zero (0) é falso.
 
+Já na conversão para DateTime, a variável natal recebe um texto com o dia/mês/ano e é convertido para o tipo DateTime. Em seguida, usamos as propriedades Day, Month e Year para mostrar os respectivos dados. Se não tivesse formato de data, ocorreria um erro.
 
+```csharp
+using static System.Console;
+using System;
+using System.Linq;
+using System.Globalization;
 
+namespace Livrocsharp
+{
+    class conversaoDados
+    {
+        static void Main(string[] args)
+        {
+	         ...
+	        // Conversões com Convert.To
+            try
+            {
+                //Conversões com Convert.To
+                WriteLine("------ Convert Números");
+                int n1 = Convert.ToInt16("100");
+                WriteLine($"{n1.GetType()} - {n1}");
+                Int32 n2 = Convert.ToInt32("200500");
+                WriteLine($"{n2.GetType()} - {n2}");
+                Int64 n3 = Convert.ToInt64("1003232131321321");
+                WriteLine($"{n3.GetType()} - {n3}");
+                decimal preco = Convert.ToDecimal("1420,50");
+                WriteLine($"{preco.GetType()} - {preco:n2}");
+                WriteLine("------ Convert String");
+                string texto1 = Convert.ToString(250.59M);
+                WriteLine($"{texto1.GetType()} - {texto1} - resultado: {texto1 ?? "texto é nulo"}");
+                string texto2 = Convert.ToString(DateTime.Today);
+                WriteLine($"{texto2.GetType()} - {texto2}");
+                WriteLine("------ Convert Booleano");
+                bool valido = Convert.ToBoolean("false");
+                WriteLine($"{valido.GetType()} - {valido}");
+                WriteLine($"0 - {Convert.ToBoolean(0)}");
+                WriteLine($"1 - {Convert.ToBoolean(1)}");
+                WriteLine($"100 - {Convert.ToBoolean(100)}");
+                WriteLine("------ Convert Data");
+                DateTime natal = Convert.ToDateTime("25/12/2021");
+                WriteLine($"Natal: {natal.GetType()} - {natal:dd/MMMM/yyyy} ");
+                WriteLine($"Natal: {natal.Day} - {natal.Month} - {natal.Year}");
+            }
+            catch(Exception ex)
+            {
+                WriteLine(ex);
+            }	
+        }
+    }
+}
+```
 
+```
+Resultado:
+------ Convert Números
+System.Int32 - 100
+System.Int32 - 200500
+System.Int64 - 1003232131321321
+System.Decimal - 1.420,50
+------ Convert String
+System.String - 250,59 - resultado: 250,59
+System.String - 26/08/2025 00:00:00
+------ Convert Booleano
+System.Boolean - False
+0 - False
+1 - True
+100 - True
+------ Convert Data
+Natal: System.DateTime - 25/dezembro/2021
+Natal: 25 - 12 - 2021
+
+```
 
 
 ---

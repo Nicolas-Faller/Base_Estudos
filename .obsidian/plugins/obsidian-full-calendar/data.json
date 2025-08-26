@@ -12,5 +12,5 @@
     "desktop": "timeGridWeek",
     "mobile": "listWeek"
   },
-  "timeFormat24h": false
+  "timeFormat24h": true
 }

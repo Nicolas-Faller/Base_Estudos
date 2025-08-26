@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Pasta de Configuração/Templates",
+      "folder": "Eventos",
       "template": "Pasta de Configuração/Templates/Daily Note Template.md"
     }
   ],
